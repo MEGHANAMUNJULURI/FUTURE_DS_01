@@ -1,5 +1,5 @@
 # FUTURE_DS_01  
-Data Analytics Project  
+Business Sales Performance Analytics Project
 
 ##  Problem Statement
 In this task, I analyzed a retail sales dataset to identify key business insights and help a business understand performance, profitability, and growth opportunities.
