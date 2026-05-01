@@ -33,7 +33,11 @@ In this task, I analyzed a retail sales dataset to identify key business insight
 - KPI metrics (Sales, Profit, Quantity, Orders)  
 - Category & region performance analysis  
 - Sales trend over time  
-- Identification of loss-making products  
+- Identification of loss-making products
+
+## Dashboard Preview
+
+![Dashboard](dashboard.jpeg)
 
 ## Files Included
 - Power BI Dashboard (.pbix)  
