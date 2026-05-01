@@ -13,7 +13,9 @@ Provide actionable business recommendations
 
 **Tools Used**
 Microsoft Excel → Data Cleaning
+
 SQL → Data Analysis
+
 Power BI → Dashboard Creation
 
 **Key Insights**
